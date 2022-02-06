@@ -1,7 +1,4 @@
 {
-    "inventoryType": "BUNDLES",
-    "catalog": [
-      {
         "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
         "itemId": 69900355,
         "inventoryType": "BUNDLES",
@@ -759,5 +756,3 @@
         "minimumLevel": 1,
         "hasVelocityRules": false
       }
-    ]
-  }
