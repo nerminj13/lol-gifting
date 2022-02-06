@@ -1,0 +1,763 @@
+{
+    "inventoryType": "BUNDLES",
+    "catalog": [
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 69900355,
+        "inventoryType": "BUNDLES",
+        "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/bundles/69900355.png",
+        "rp": 2500,
+        "releaseDate": 1643230800000,
+        "inactiveDate": "2022-03-07T19:00:00.000+00:00",
+        "name": "10 Firecracker 2022 Orbs + 1 Bonus Orb + 160 Tokens",
+        "description": "Get 10 Firecracker 2022 Orbs and 1 Bonus Orb, each of which contains a guaranteed random Skin Shard with a chance to obtain a Firecracker 2022 Grab Bag. Bundle includes 160 Lunar Revel 2022 Tokens.",
+        "tags": [
+          "requirement_owned"
+        ],
+        "minimumLevel": 5,
+        "bundleDiscountEnabled": true,
+        "bundleDiscountMinCost": 0,
+        "purchaseLimitReached": false,
+        "bundleItems": [
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 513,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/513.png",
+            "rp": 250,
+            "name": "Firecracker 2022 Orb",
+            "description": "Open to reveal a guaranteed random Skin Shard with a chance to obtain a Firecracker 2022 Grab Bag. Gemstone and Mythic Skin Permanent drop rates multiplied by 1.5.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_513",
+            "quantity": 10,
+            "discountedRp": 250
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 516,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/513.png",
+            "rp": 0,
+            "name": "Bonus Firecracker 2022 Orb",
+            "description": "Open to reveal a guaranteed random Skin Shard with a chance to obtain a Firecracker 2022 Grab Bag. Gemstone and Mythic Skin Permanent drop rates multiplied by 1.5.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_513",
+            "quantity": 1,
+            "discountedRp": 0
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
+            "itemId": 512,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "MATERIAL",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/512.png",
+            "rp": 0,
+            "name": "Lunar Revel 2022 Token",
+            "description": "Gained from purchasing event content or completing event missions. Craft into exclusive Lunar Revel 2022 event content. Tokens are earnable until February 28, 2022 at 11:59 p.m. PT. Tokens are purchasable until March 7, 2022 at 11:00 a.m. PT. Tokens expire March 7, 2022 at 1:00 p.m. PT.",
+            "hasVelocityRules": false,
+            "quantity": 160,
+            "discountedRp": 0
+          }
+        ],
+        "fullPrice": 2500,
+        "owned": false,
+        "hasVelocityRules": false
+      },
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 69900218,
+        "inventoryType": "BUNDLES",
+        "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/bundles/69900218.png",
+        "rp": 1125,
+        "releaseDate": 1579114800000,
+        "inactiveDate": "2022-03-24T18:00:00.000+00:00",
+        "name": "5 Masterwork Chests & Keys + 6 Prestige Points (2020)",
+        "description": "Designed for the crafting connoisseur. Comes with 5 Masterwork Chests and Hextech Keys, plus 6 Prestige Points (2020).",
+        "tags": [
+          "requirement_owned"
+        ],
+        "minimumLevel": 5,
+        "bundleDiscountEnabled": true,
+        "bundleDiscountMinCost": 1125,
+        "purchaseLimitReached": false,
+        "bundleItems": [
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 224,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2018-4-12-Masterwork/MasterWorkChest_single_190x190.png",
+            "rp": 165,
+            "name": "Masterwork Chest",
+            "description": "The highest-quality crafting items available. Curated and approved by the master craftsman Ornn. Requires a Hextech Key to open.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_224",
+            "quantity": 5,
+            "discountedRp": 128
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
+            "itemId": 3,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "MATERIAL",
+            "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechKey_190x190%20%281%29.png",
+            "rp": 125,
+            "name": "Hextech Key",
+            "description": "Opens a Hextech Chest. For the times when a lock pick doesn’t cut it.",
+            "hasVelocityRules": false,
+            "quantity": 5,
+            "discountedRp": 97
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
+            "itemId": 359,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "MATERIAL",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/359.png",
+            "rp": 0,
+            "name": "Prestige Point (2020)",
+            "description": "Gained from purchasing Masterwork Chest bundles or special event content. Craft into exclusive Prestige Edition skins. Expires January 2022 (subject to change).",
+            "hasVelocityRules": false,
+            "quantity": 6,
+            "discountedRp": 0
+          }
+        ],
+        "fullPrice": 1450,
+        "owned": false,
+        "hasVelocityRules": false
+      },
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 3,
+        "inventoryType": "HEXTECH_CRAFTING",
+        "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechKey_190x190%20%281%29.png",
+        "rp": 125,
+        "releaseDate": 1530105000000,
+        "inactiveDate": "2999-07-11T06:59:59.000+00:00",
+        "name": "Hextech Key",
+        "description": "Opens a Hextech Chest. For the times when a lock pick doesn’t cut it.",
+        "tags": [
+          "hextech_material",
+          "requirement_owned"
+        ],
+        "minimumLevel": 5,
+        "hasVelocityRules": false
+      },
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 69900356,
+        "inventoryType": "BUNDLES",
+        "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/bundles/69900356.png",
+        "rp": 6250,
+        "releaseDate": 1643230800000,
+        "inactiveDate": "2022-03-07T19:00:00.000+00:00",
+        "name": "25 Firecracker 2022 Orbs + 1 Bag + 400 Tokens",
+        "description": "Get 25 Firecracker 2022 Orbs, each of which contains a guaranteed random Skin Shard with a chance to obtain a Firecracker 2022 Grab Bag. Bundle includes 400 Lunar Revel 2022 Tokens and a Firecracker 2022 Grab Bag.",
+        "tags": [
+          "requirement_owned"
+        ],
+        "minimumLevel": 5,
+        "bundleDiscountEnabled": true,
+        "bundleDiscountMinCost": 0,
+        "purchaseLimitReached": false,
+        "bundleItems": [
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 513,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/513.png",
+            "rp": 250,
+            "name": "Firecracker 2022 Orb",
+            "description": "Open to reveal a guaranteed random Skin Shard with a chance to obtain a Firecracker 2022 Grab Bag. Gemstone and Mythic Skin Permanent drop rates multiplied by 1.5.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_513",
+            "quantity": 25,
+            "discountedRp": 250
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 514,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/514.png",
+            "rp": 750,
+            "name": "Firecracker 2022 Grab Bag",
+            "description": "Contains 3 skin shards worth 1350RP or lower OR 4 random skin shards from past Lunar Revels (2013-2017) worth 975 RP or higher. Bonus chance at a mythic gemstone and a mythic permanent skin.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_514",
+            "quantity": 1,
+            "discountedRp": 0
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
+            "itemId": 512,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "MATERIAL",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/512.png",
+            "rp": 0,
+            "name": "Lunar Revel 2022 Token",
+            "description": "Gained from purchasing event content or completing event missions. Craft into exclusive Lunar Revel 2022 event content. Tokens are earnable until February 28, 2022 at 11:59 p.m. PT. Tokens are purchasable until March 7, 2022 at 11:00 a.m. PT. Tokens expire March 7, 2022 at 1:00 p.m. PT.",
+            "hasVelocityRules": false,
+            "quantity": 400,
+            "discountedRp": 0
+          }
+        ],
+        "fullPrice": 7000,
+        "owned": false,
+        "hasVelocityRules": false
+      },
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 69900217,
+        "inventoryType": "BUNDLES",
+        "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/bundles/69900217.png",
+        "rp": 225,
+        "releaseDate": 1579114800000,
+        "inactiveDate": "2022-03-24T18:00:00.000+00:00",
+        "name": "1 Masterwork Chest & Key + 1 Prestige Point (2020)",
+        "description": "A solid set to begin your crafting journey. Comes with a Hextech Key and Masterwork Chest, plus a Prestige Point (2020).",
+        "tags": [
+          "requirement_owned"
+        ],
+        "minimumLevel": 5,
+        "bundleDiscountEnabled": true,
+        "bundleDiscountMinCost": 225,
+        "purchaseLimitReached": false,
+        "bundleItems": [
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 224,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2018-4-12-Masterwork/MasterWorkChest_single_190x190.png",
+            "rp": 165,
+            "name": "Masterwork Chest",
+            "description": "The highest-quality crafting items available. Curated and approved by the master craftsman Ornn. Requires a Hextech Key to open.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_224",
+            "quantity": 1,
+            "discountedRp": 128
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
+            "itemId": 3,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "MATERIAL",
+            "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechKey_190x190%20%281%29.png",
+            "rp": 125,
+            "name": "Hextech Key",
+            "description": "Opens a Hextech Chest. For the times when a lock pick doesn’t cut it.",
+            "hasVelocityRules": false,
+            "quantity": 1,
+            "discountedRp": 97
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
+            "itemId": 359,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "MATERIAL",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/359.png",
+            "rp": 0,
+            "name": "Prestige Point (2020)",
+            "description": "Gained from purchasing Masterwork Chest bundles or special event content. Craft into exclusive Prestige Edition skins. Expires January 2022 (subject to change).",
+            "hasVelocityRules": false,
+            "quantity": 1,
+            "discountedRp": 0
+          }
+        ],
+        "fullPrice": 290,
+        "owned": false,
+        "hasVelocityRules": false
+      },
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 69900001,
+        "inventoryType": "BUNDLES",
+        "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechChestSet_190x190.png",
+        "rp": 195,
+        "releaseDate": 1537858800000,
+        "inactiveDate": "2999-09-25T07:00:00.000+00:00",
+        "name": "1 Hextech Chest and Key Bundle",
+        "description": "Get straight to crafting. Comes with a Hextech Key and Hextech Chest.",
+        "tags": [
+          "requirement_owned"
+        ],
+        "minimumLevel": 5,
+        "bundleDiscountEnabled": true,
+        "bundleDiscountMinCost": 195,
+        "purchaseLimitReached": false,
+        "bundleItems": [
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 1,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechChest_190x190.png",
+            "rp": 125,
+            "name": "Hextech Chest",
+            "description": "A surprise in every chest. Requires a Hextech Key to open.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_generic",
+            "quantity": 1,
+            "discountedRp": 97
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
+            "itemId": 3,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "MATERIAL",
+            "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechKey_190x190%20%281%29.png",
+            "rp": 125,
+            "name": "Hextech Key",
+            "description": "Opens a Hextech Chest. For the times when a lock pick doesn’t cut it.",
+            "hasVelocityRules": false,
+            "quantity": 1,
+            "discountedRp": 97
+          }
+        ],
+        "fullPrice": 250,
+        "owned": false,
+        "hasVelocityRules": false
+      },
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 69900002,
+        "inventoryType": "BUNDLES",
+        "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechChestBundle5_190x190.png",
+        "rp": 975,
+        "releaseDate": 1537858800000,
+        "inactiveDate": "2999-09-25T07:00:00.000+00:00",
+        "name": "5 Hextech Chests & Keys + Bonus Essence!",
+        "description": "For the casual crafter. Comes with five Hextech Chests and Hextech Keys, plus 50 bonus orange essence.",
+        "tags": [
+          "requirement_owned"
+        ],
+        "minimumLevel": 5,
+        "bundleDiscountEnabled": true,
+        "bundleDiscountMinCost": 975,
+        "purchaseLimitReached": false,
+        "bundleItems": [
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 1,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechChest_190x190.png",
+            "rp": 125,
+            "name": "Hextech Chest",
+            "description": "A surprise in every chest. Requires a Hextech Key to open.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_generic",
+            "quantity": 5,
+            "discountedRp": 97
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
+            "itemId": 3,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "MATERIAL",
+            "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechKey_190x190%20%281%29.png",
+            "rp": 125,
+            "name": "Hextech Key",
+            "description": "Opens a Hextech Chest. For the times when a lock pick doesn’t cut it.",
+            "hasVelocityRules": false,
+            "quantity": 5,
+            "discountedRp": 97
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
+            "itemId": 5,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CURRENCY",
+            "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-04-24_MSI/orange_essence.png",
+            "rp": 0,
+            "name": "Orange Essence",
+            "description": "Used to upgrade skin shards to skin permanents.",
+            "hasVelocityRules": false,
+            "quantity": 50,
+            "discountedRp": 0
+          }
+        ],
+        "fullPrice": 1250,
+        "owned": false,
+        "hasVelocityRules": false
+      },
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 224,
+        "inventoryType": "HEXTECH_CRAFTING",
+        "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2018-4-12-Masterwork/MasterWorkChest_single_190x190.png",
+        "rp": 165,
+        "releaseDate": 1537858800000,
+        "inactiveDate": "2999-09-25T07:00:00.000+00:00",
+        "name": "Masterwork Chest",
+        "description": "The highest-quality crafting items available. Curated and approved by the master craftsman Ornn. Requires a Hextech Key to open.",
+        "tags": [
+          "requirement_owned"
+        ],
+        "minimumLevel": 5,
+        "hasVelocityRules": false
+      },
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 69900219,
+        "inventoryType": "BUNDLES",
+        "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/bundles/69900219.png",
+        "rp": 2250,
+        "releaseDate": 1579114800000,
+        "inactiveDate": "2022-03-24T18:00:00.000+00:00",
+        "name": "10+1 Masterwork Chests & Keys + 13 Prestige Points (2020)",
+        "description": "The top-of-the-line crafting collection. Comes with 10 Hextech Keys to open 10 Masterwork Chests, plus a bonus set and 13 Prestige Points (2020).",
+        "tags": [
+          "requirement_owned"
+        ],
+        "minimumLevel": 5,
+        "bundleDiscountEnabled": true,
+        "bundleDiscountMinCost": 2250,
+        "purchaseLimitReached": false,
+        "bundleItems": [
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 224,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2018-4-12-Masterwork/MasterWorkChest_single_190x190.png",
+            "rp": 165,
+            "name": "Masterwork Chest",
+            "description": "The highest-quality crafting items available. Curated and approved by the master craftsman Ornn. Requires a Hextech Key to open.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_224",
+            "quantity": 10,
+            "discountedRp": 128
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 232,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/en/live-banners/2018-4-12-Masterwork/MasterWorkChest_single_190x190.png",
+            "rp": 165,
+            "name": "Bonus Masterwork Chest",
+            "description": "The highest-quality crafting items available. Curated and approved by the master craftsman Ornn. Requires a Hextech Key to open.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_224",
+            "quantity": 1,
+            "discountedRp": 0
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
+            "itemId": 3,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "MATERIAL",
+            "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechKey_190x190%20%281%29.png",
+            "rp": 125,
+            "name": "Hextech Key",
+            "description": "Opens a Hextech Chest. For the times when a lock pick doesn’t cut it.",
+            "hasVelocityRules": false,
+            "quantity": 10,
+            "discountedRp": 97
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
+            "itemId": 11,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "MATERIAL",
+            "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechKey_190x190%20%281%29.png",
+            "rp": 125,
+            "name": "Bonus Hextech Key",
+            "description": "Opens a Hextech Chest. For the times when a lock pick doesn’t cut it.",
+            "hasVelocityRules": false,
+            "quantity": 1,
+            "discountedRp": 0
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
+            "itemId": 359,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "MATERIAL",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/359.png",
+            "rp": 0,
+            "name": "Prestige Point (2020)",
+            "description": "Gained from purchasing Masterwork Chest bundles or special event content. Craft into exclusive Prestige Edition skins. Expires January 2022 (subject to change).",
+            "hasVelocityRules": false,
+            "quantity": 13,
+            "discountedRp": 0
+          }
+        ],
+        "fullPrice": 3190,
+        "owned": false,
+        "hasVelocityRules": false
+      },
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 69900003,
+        "inventoryType": "BUNDLES",
+        "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechChestBundle10_BonusChest_190x190.png",
+        "rp": 1950,
+        "releaseDate": 1537858800000,
+        "inactiveDate": "2999-09-25T07:00:00.000+00:00",
+        "name": "10 Hextech Chests & Keys + Bonus Set!",
+        "description": "We’d rate this bundle an 11 out of 10. Comes with 10 Hextech Keys to open 10 Hextech Chests, plus a bonus set.",
+        "tags": [
+          "requirement_owned"
+        ],
+        "minimumLevel": 5,
+        "bundleDiscountEnabled": true,
+        "bundleDiscountMinCost": 1950,
+        "purchaseLimitReached": false,
+        "bundleItems": [
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 1,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechChest_190x190.png",
+            "rp": 125,
+            "name": "Hextech Chest",
+            "description": "A surprise in every chest. Requires a Hextech Key to open.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_generic",
+            "quantity": 10,
+            "discountedRp": 97
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 10,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechChest_190x190.png",
+            "rp": 125,
+            "name": "Bonus Hextech Chest",
+            "description": "A surprise in every chest. Requires a Hextech Key to open.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_generic",
+            "quantity": 1,
+            "discountedRp": 0
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
+            "itemId": 3,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "MATERIAL",
+            "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechKey_190x190%20%281%29.png",
+            "rp": 125,
+            "name": "Hextech Key",
+            "description": "Opens a Hextech Chest. For the times when a lock pick doesn’t cut it.",
+            "hasVelocityRules": false,
+            "quantity": 10,
+            "discountedRp": 97
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
+            "itemId": 11,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "MATERIAL",
+            "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechKey_190x190%20%281%29.png",
+            "rp": 125,
+            "name": "Bonus Hextech Key",
+            "description": "Opens a Hextech Chest. For the times when a lock pick doesn’t cut it.",
+            "hasVelocityRules": false,
+            "quantity": 1,
+            "discountedRp": 0
+          }
+        ],
+        "fullPrice": 2750,
+        "owned": false,
+        "hasVelocityRules": false
+      },
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 69900354,
+        "inventoryType": "BUNDLES",
+        "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/bundles/69900354.png",
+        "rp": 250,
+        "releaseDate": 1643230800000,
+        "inactiveDate": "2022-03-07T19:00:00.000+00:00",
+        "name": "1 Firecracker 2022 Orb + 16 Tokens",
+        "description": "Open to reveal a guaranteed random Skin Shard with a chance to obtain a Firecracker 2022 Grab Bag. Gemstone and Mythic Skin Permanent drop rates multiplied by 1.5.",
+        "tags": [
+          "requirement_owned"
+        ],
+        "minimumLevel": 5,
+        "bundleDiscountEnabled": true,
+        "bundleDiscountMinCost": 0,
+        "purchaseLimitReached": false,
+        "bundleItems": [
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 513,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/513.png",
+            "rp": 250,
+            "name": "Firecracker 2022 Orb",
+            "description": "Open to reveal a guaranteed random Skin Shard with a chance to obtain a Firecracker 2022 Grab Bag. Gemstone and Mythic Skin Permanent drop rates multiplied by 1.5.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_513",
+            "quantity": 1,
+            "discountedRp": 250
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
+            "itemId": 512,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "MATERIAL",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/512.png",
+            "rp": 0,
+            "name": "Lunar Revel 2022 Token",
+            "description": "Gained from purchasing event content or completing event missions. Craft into exclusive Lunar Revel 2022 event content. Tokens are earnable until February 28, 2022 at 11:59 p.m. PT. Tokens are purchasable until March 7, 2022 at 11:00 a.m. PT. Tokens expire March 7, 2022 at 1:00 p.m. PT.",
+            "hasVelocityRules": false,
+            "quantity": 16,
+            "discountedRp": 0
+          }
+        ],
+        "fullPrice": 250,
+        "owned": false,
+        "hasVelocityRules": false
+      },
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 1,
+        "inventoryType": "HEXTECH_CRAFTING",
+        "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechChest_190x190.png",
+        "rp": 125,
+        "releaseDate": 1537858800000,
+        "inactiveDate": "2999-09-25T07:00:00.000+00:00",
+        "name": "Hextech Chest",
+        "description": "A surprise in every chest. Requires a Hextech Key to open.",
+        "tags": [
+          "hextech_chest",
+          "requirement_owned"
+        ],
+        "minimumLevel": 5,
+        "hasVelocityRules": false
+      },
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 33300118,
+        "inventoryType": "BUNDLES",
+        "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/bundles/33300118.png",
+        "rp": 6860,
+        "releaseDate": 1642705200000,
+        "inactiveDate": "2022-02-16T07:59:00.000+00:00",
+        "name": "Lunar Legend Firecracker Bundle",
+        "description": "For the collector; Festival Firecrackers will pop out previous and new Lunar New Year Little Legends or Firecracker Chibi Jinx. Each will get you a new variant or level up a variant you already own, until you've collected them all! Little Legends are only usable in TFT and ARAM. Firecracker Jinx is only usable in TFT.",
+        "tags": [
+          "tft",
+          "tft-egg",
+          "requirement_owned"
+        ],
+        "bundleDiscountEnabled": true,
+        "bundleDiscountMinCost": 0,
+        "purchaseLimitReached": false,
+        "bundleItems": [
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 3330115,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/3330115.png",
+            "rp": 490,
+            "name": "Festival Firecrackers",
+            "description": "Festival Firecrackers will pop out previous and new Lunar New Year Little Legends or Firecracker Chibi Jinx. Each will get you a new variant or level up a variant you already own, until you've collected them all! Little Legends are only usable in TFT and ARAM. Firecracker Jinx is only usable in TFT.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_3330115",
+            "quantity": 14,
+            "discountedRp": 490
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 3330113,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/3330115.png",
+            "rp": 490,
+            "name": "Bonus Festival Firecrackers",
+            "description": "Festival Firecrackers will pop out previous and new Lunar New Year Little Legends or Firecracker Chibi Jinx. Each will get you a new variant or level up a variant you already own, until you've collected them all! Little Legends are only usable in TFT and ARAM. Firecracker Jinx is only usable in TFT.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_3330115",
+            "quantity": 2,
+            "discountedRp": 0
+          }
+        ],
+        "fullPrice": 7840,
+        "owned": false,
+        "hasVelocityRules": false
+      },
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 33300120,
+        "inventoryType": "BUNDLES",
+        "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/bundles/33300120.png",
+        "rp": 12740,
+        "releaseDate": 1642705200000,
+        "inactiveDate": "2022-02-16T07:59:00.000+00:00",
+        "name": "Lunar Legend Festival 2022 Megabundle",
+        "description": "Includes 26 Festival Firecrackers, 5 Bonus Festival Firecrackers, Golden Tiger Market Arena, Staff Drop, Raging Ox, Tangerine Burst, and Chbi Firecracker Jinx 'super mega firecracker' boom.",
+        "tags": [
+          "tft",
+          "tft-egg",
+          "requirement_owned"
+        ],
+        "minimumLevel": 1,
+        "bundleDiscountEnabled": true,
+        "bundleDiscountMinCost": 0,
+        "purchaseLimitReached": false,
+        "bundleItems": [
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 3330115,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/3330115.png",
+            "rp": 490,
+            "name": "Festival Firecrackers",
+            "description": "Festival Firecrackers will pop out previous and new Lunar New Year Little Legends or Firecracker Chibi Jinx. Each will get you a new variant or level up a variant you already own, until you've collected them all! Little Legends are only usable in TFT and ARAM. Firecracker Jinx is only usable in TFT.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_3330115",
+            "quantity": 26,
+            "discountedRp": 490
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 3330113,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/3330115.png",
+            "rp": 490,
+            "name": "Bonus Festival Firecrackers",
+            "description": "Festival Firecrackers will pop out previous and new Lunar New Year Little Legends or Firecracker Chibi Jinx. Each will get you a new variant or level up a variant you already own, until you've collected them all! Little Legends are only usable in TFT and ARAM. Firecracker Jinx is only usable in TFT.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_3330115",
+            "quantity": 5,
+            "discountedRp": 0
+          }
+        ],
+        "fullPrice": 15190,
+        "owned": false,
+        "hasVelocityRules": false
+      },
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 3330115,
+        "inventoryType": "HEXTECH_CRAFTING",
+        "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/3330115.png",
+        "maxQuantity": -1,
+        "rp": 490,
+        "releaseDate": 1642705200000,
+        "inactiveDate": "2022-02-16T07:59:00.000+00:00",
+        "name": "Festival Firecrackers",
+        "description": "Festival Firecrackers will pop out previous and new Lunar New Year Little Legends or Firecracker Chibi Jinx. Each will get you a new variant or level up a variant you already own, until you've collected them all! Little Legends are only usable in TFT and ARAM. Firecracker Jinx is only usable in TFT.",
+        "tags": [
+          "tft",
+          "tft-egg",
+          "requirement_owned"
+        ],
+        "minimumLevel": 1,
+        "hasVelocityRules": false
+      }
+    ]
+  }
