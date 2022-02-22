@@ -758,6 +758,121 @@
         ],
         "minimumLevel": 1,
         "hasVelocityRules": false
+      },
+      
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 69900361,
+        "inventoryType": "BUNDLES",
+        "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/bundles/69900361.png",
+        "rp": 250,
+        "releaseDate": 1645131600000,
+        "inactiveDate": "2022-03-07T19:00:00.000+00:00",
+        "name": "1 Porcelain 2022 Orb + 16 Tokens",
+        "description": "Open to reveal a guaranteed random Skin Shard with a chance to obtain a Porcelain 2022 Grab Bag. Gemstone and Mythic Skin Permanent drop rates multiplied by 1.5.",
+        "tags": [
+          "requirement_owned"
+        ],
+        "minimumLevel": 5,
+        "bundleDiscountEnabled": true,
+        "bundleDiscountMinCost": 0,
+        "purchaseLimitReached": false,
+        "bundleItems": [
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 521,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/521.png",
+            "rp": 250,
+            "name": "Porcelain 2022 Orb",
+            "description": "Open to reveal a guaranteed random Skin Shard with a chance to obtain a Porcelain 2022 Grab Bag. Gemstone and Mythic Skin Permanent drop rates multiplied by 1.5.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_521",
+            "quantity": 1,
+            "discountedRp": 250
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
+            "itemId": 512,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "MATERIAL",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/512.png",
+            "rp": 0,
+            "name": "Lunar Revel 2022 Token",
+            "description": "Gained from purchasing event content or completing event missions. Craft into exclusive Lunar Revel 2022 event content. Tokens are earnable until February 28, 2022 at 11:59 p.m. PT. Tokens are purchasable until March 7, 2022 at 11:00 a.m. PT. Tokens expire March 7, 2022 at 1:00 p.m. PT.",
+            "hasVelocityRules": false,
+            "quantity": 16,
+            "discountedRp": 0
+          }
+        ],
+        "fullPrice": 250,
+        "owned": false,
+        "hasVelocityRules": false
+      },
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 69900362,
+        "inventoryType": "BUNDLES",
+        "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/bundles/69900362.png",
+        "rp": 2500,
+        "releaseDate": 1645131600000,
+        "inactiveDate": "2022-03-07T19:00:00.000+00:00",
+        "name": "10 Porcelain 2022 Orbs + 1 Bonus Orb + 160 Tokens",
+        "description": "Get 10 Porcelain 2022 Orbs and 1 Bonus Orb, each of which contains a guaranteed random Skin Shard with a chance to obtain a Porcelain 2022 Grab Bag. Bundle includes 160 Lunar Revel 2022 Tokens.",
+        "tags": [
+          "requirement_owned"
+        ],
+        "minimumLevel": 5,
+        "bundleDiscountEnabled": true,
+        "bundleDiscountMinCost": 0,
+        "purchaseLimitReached": false,
+        "bundleItems": [
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 521,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/521.png",
+            "rp": 250,
+            "name": "Porcelain 2022 Orb",
+            "description": "Open to reveal a guaranteed random Skin Shard with a chance to obtain a Porcelain 2022 Grab Bag. Gemstone and Mythic Skin Permanent drop rates multiplied by 1.5.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_521",
+            "quantity": 10,
+            "discountedRp": 250
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 524,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/521.png",
+            "rp": 0,
+            "name": "Bonus Porcelain 2022 Orb",
+            "description": "Open to reveal a guaranteed random Skin Shard with a chance to obtain a Porcelain 2022 Grab Bag. Gemstone and Mythic Skin Permanent drop rates multiplied by 1.5.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_521",
+            "quantity": 1,
+            "discountedRp": 0
+          },
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
+            "itemId": 512,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "MATERIAL",
+            "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/hextechCrafting/512.png",
+            "rp": 0,
+            "name": "Lunar Revel 2022 Token",
+            "description": "Gained from purchasing event content or completing event missions. Craft into exclusive Lunar Revel 2022 event content. Tokens are earnable until February 28, 2022 at 11:59 p.m. PT. Tokens are purchasable until March 7, 2022 at 11:00 a.m. PT. Tokens expire March 7, 2022 at 1:00 p.m. PT.",
+            "hasVelocityRules": false,
+            "quantity": 160,
+            "discountedRp": 0
+          }
+        ],
+        "fullPrice": 2500,
+        "owned": false,
+        "hasVelocityRules": false
       }
     ]
   }
