@@ -209,56 +209,38 @@
         "owned": false,
         "hasVelocityRules": false
       },
-    {
-      "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
-      "itemId": 69900088,
-      "inventoryType": "BUNDLES",
-      "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2018-4-12-Masterwork/single_masterwork_chest_key_bundle_190x190_updated.png",
-      "rp": 225,
-      "releaseDate": 1648144800000,
-      "inactiveDate": "2999-03-24T18:00:00.000+00:00",
-      "name": "1 Masterwork Chest and Key Bundle",
-      "description": "A solid set to begin your crafting journey. Comes with a Hextech Key and Masterwork Chest.",
-      "tags": [
-        "requirement_owned"
-      ],
-      "minimumLevel": 5,
-      "bundleDiscountEnabled": true,
-      "bundleDiscountMinCost": 225,
-      "purchaseLimitReached": false,
-      "bundleItems": [
-        {
-          "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
-          "itemId": 224,
-          "inventoryType": "HEXTECH_CRAFTING",
-          "subInventoryType": "CHEST",
-          "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2018-4-12-Masterwork/MasterWorkChest_single_190x190.png",
-          "rp": 165,
-          "name": "Masterwork Chest",
-          "description": "The highest-quality crafting items available. Curated and approved by the master craftsman Ornn. Requires a Hextech Key to open.",
-          "hasVelocityRules": false,
-          "fulfillmentMapping": "CHEST_224",
-          "quantity": 1,
-          "discountedRp": 128
-        },
-        {
-          "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
-          "itemId": 3,
-          "inventoryType": "HEXTECH_CRAFTING",
-          "subInventoryType": "MATERIAL",
-          "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2017-06-01_VSAssets/HextechKey_190x190%20%281%29.png",
-          "rp": 125,
-          "name": "Hextech Key",
-          "description": "Opens a Hextech Chest. For the times when a lock pick doesn’t cut it.",
-          "hasVelocityRules": false,
-          "quantity": 1,
-          "discountedRp": 97
-        }
-      ],
-      "fullPrice": 290,
-      "owned": false,
-      "hasVelocityRules": false
-    },
+      {
+        "type": "com.riotgames.storefront.contract.domain.item.SummonerItemDTO",
+        "itemId": 69900088,
+        "inventoryType": "BUNDLES",
+        "iconUrl": "https://d392eissrffsyf.cloudfront.net/storeImages/bundles/69900217.png",
+        "rp": 225,
+        "releaseDate": 1648144800000,
+        "inactiveDate": "2999-03-24T18:00:00.000+00:00",
+        "name": "1 Masterwork Chest & Key + 1 Prestige Point (2020)",
+        "description": "A solid set to begin your crafting journey. Comes with a Hextech Key and Masterwork Chest, plus a Prestige Point (2020).",
+        "tags": [
+          "requirement_owned"
+        ],
+        "minimumLevel": 5,
+        "bundleDiscountEnabled": true,
+        "bundleDiscountMinCost": 225,
+        "purchaseLimitReached": false,
+        "bundleItems": [
+          {
+            "type": "com.riotgames.storefront.contract.domain.item.BundleHextechItemDTO",
+            "itemId": 224,
+            "inventoryType": "HEXTECH_CRAFTING",
+            "subInventoryType": "CHEST",
+            "iconUrl": "//d392eissrffsyf.cloudfront.net/en/live-banners/2018-4-12-Masterwork/MasterWorkChest_single_190x190.png",
+            "rp": 165,
+            "name": "Masterwork Chest",
+            "description": "The highest-quality crafting items available. Curated and approved by the master craftsman Ornn. Requires a Hextech Key to open.",
+            "hasVelocityRules": false,
+            "fulfillmentMapping": "CHEST_224",
+            "quantity": 1,
+            "discountedRp": 128
+          },
           {
             "type": "com.riotgames.storefront.contract.domain.item.BundleItemDTO",
             "itemId": 3,
